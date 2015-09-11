@@ -1,2 +1,2 @@
-# trabalhos da disciplina construcao de software 
+# exercicios da disciplina construcao de software 
 
