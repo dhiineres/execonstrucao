@@ -68,7 +68,10 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="10" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding />
+              <folding>
+                <marker date="1442527670711" expanded="true" signature="448:627" placeholder="..." />
+                <marker date="1442527670711" expanded="true" signature="469:607" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +79,7 @@
       <file leaf-file-name="Propriedade.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/ufg/inf/es/construcao/propriedade153/Propriedade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state line="30" column="0" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -85,7 +88,7 @@
       <file leaf-file-name="PropriedadeTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/br/ufg/inf/es/construcao/propriedade153/PropriedadeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="54" selection-start="915" selection-end="915" vertical-scroll-proportion="0.703125" vertical-offset="0" max-vertical-offset="576">
+            <state line="22" column="65" selection-start="777" selection-end="777" vertical-scroll-proportion="0.5729167" vertical-offset="0" max-vertical-offset="576">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,14 +107,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/br/ufg/inf/es/construcao/propriedade153/Propriedade.java" />
         <option value="$PROJECT_DIR$/src/test/java/br/ufg/inf/es/construcao/propriedade153/PropriedadeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/ufg/inf/es/construcao/propriedade153/Propriedade.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="452" />
-    <option name="y" value="54" />
+    <option name="x" value="214" />
+    <option name="y" value="10" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -547,15 +550,15 @@
       <changelist id="7c01e690-d5e7-4f1e-9a65-af1f100b19ce" name="Default" comment="" />
       <created>1442527616824</created>
       <updated>1442527616824</updated>
-      <workItem from="1442527622158" duration="2262000" />
+      <workItem from="1442527622158" duration="2885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2262000" />
+    <option name="totallyTimeSpent" value="2885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="452" y="54" width="1400" height="1000" extended-state="0" />
+    <frame x="214" y="10" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -610,20 +613,23 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="10" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
+          <folding>
+            <marker date="1442527670711" expanded="true" signature="448:627" placeholder="..." />
+            <marker date="1442527670711" expanded="true" signature="469:607" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/ufg/inf/es/construcao/propriedade153/Propriedade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+        <state line="30" column="0" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/br/ufg/inf/es/construcao/propriedade153/PropriedadeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="54" selection-start="915" selection-end="915" vertical-scroll-proportion="0.703125" vertical-offset="0" max-vertical-offset="576">
+        <state line="22" column="65" selection-start="777" selection-end="777" vertical-scroll-proportion="0.5729167" vertical-offset="0" max-vertical-offset="576">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
